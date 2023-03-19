@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @astyles97
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me astyles@protonmail.com
 
