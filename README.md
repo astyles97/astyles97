@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @astyles97
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me astyles@protonmail.com
+Python and Javascript
+Open to work opportunities
+
 
 <!---
 astyles97/astyles97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
