@@ -1,5 +1,4 @@
-Python and Javascript
-Open to work opportunities
+
 
 
 <!---
