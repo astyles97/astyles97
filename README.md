@@ -1,8 +1,8 @@
-Hi 👋 My name is Adam Styles 
-Python Developer 
-I love working in Python, but I have also been known to dabble in Javascript and different frameworks.  
-* 🌍  I'm based in Albuquerque 
-* ✉️  You can contact me at [astyles@protonmail.com](mailto:astyles@protonmail.com)
+<h1>Hi 👋 My name is Adam Styles</h1> 
+<h2>Python and JavaScript Developer</h2> 
+<p>I love working in Python, but I have also been known to dabble in Javascript and different frameworks. </p> 
+<p>* 🌍  I'm based in Albuquerque </p>
+<p>* ✉️  You can contact me at [astyles@protonmail.com](mailto:astyles@protonmail.com)</p>
 
 ### Skills  
 
