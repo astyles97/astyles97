@@ -1,9 +1,10 @@
-<h1>Hi 👋 My name is Adam Styles</h1> 
-<h2>Python and JavaScript Developer</h2> 
-<p>I love working in Python, but I have also been known to dabble in Javascript and different frameworks. </p> 
-<p>* I'm based in the United States </p>
+<h1>Hi 👋 My name is Adam Styles</h1>
+<h2><em>Creater of The Philadelphia Bathroom Access Map</em>, <a href="phlbam.com">phlbam.com</a></h2>
+
+<p>* Web Developer</p> 
+<p>* Python and Javascript</p> 
+<p>* I'm based in the United States</p>
 <p>* I am actively looking for work in web development, particularly backend</p>
-<p>* Soon to be releasing an open source project</p>
 <p>* Interested in data, science, and data + science</p>
 
 ### Skills  
