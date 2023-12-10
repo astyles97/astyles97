@@ -1,5 +1,5 @@
 <h1>Hi 👋 My name is Adam Styles</h1>
-<h2><em>Creater of The Philadelphia Bathroom Access Map</em>, <a href="phlbam.com">phlbam.com</a></h2>
+<h2><em>Creater of The Philadelphia Bathroom Access Map</em>, <a href="https://phlbam.com/">phlbam.com</a></h2>
 
 <p>* Web Developer</p> 
 <p>* Python and Javascript</p> 
