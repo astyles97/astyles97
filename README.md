@@ -4,7 +4,7 @@
 <p>* Web Developer</p> 
 <p>* Python and Javascript</p> 
 <p>* I'm based in the United States</p>
-<p>* I am actively looking for work in web development, particularly backend</p>
+<p>* I am actively looking for work in junior developer roles as well as junior admin positions</p>
 <p>* Interested in data, science, and data + science</p>
 
 ### Skills  
